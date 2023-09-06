@@ -8,9 +8,9 @@ table,td,tr,th{
 	width:100%;
 	margin: 25px 0px 25px 0px
 }
-.white{
-	background-color:black;
-	color:white;
+.whit{
+	background-color:rgba(0, 0, 0, 1);
+	color:rgba(248, 248, 248, 1);
 }
 .same{
 	width:250px;
